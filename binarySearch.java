@@ -1,5 +1,3 @@
-package com.sailors.sail_v5;
-
 import org.json.JSONArray;
 
 //json array binary search
