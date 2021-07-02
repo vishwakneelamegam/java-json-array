@@ -3,8 +3,6 @@ import org.json.JSONArray;
 //json array binary search
 public class binarySearch {
     public int search(JSONArray dataArray,String searchElement){
-        System.out.println(dataArray);
-        System.out.println(searchElement);
         try{
             int lowerBound = 0;
             int upperBound = dataArray.length() - 1;
