@@ -1,6 +1,5 @@
 import org.json.JSONArray;
 
-//json array binary search
 public class binarySearch {
     public int search(JSONArray dataArray,String searchElement){
         try{
